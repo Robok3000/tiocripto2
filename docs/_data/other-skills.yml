@@ -1,0 +1,7 @@
+- name: Economía
+  percentage: -95
+  color: info
+
+- name: Sabiduría Financiera
+  percentage: -90
+  color: success

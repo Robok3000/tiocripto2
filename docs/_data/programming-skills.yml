@@ -1,0 +1,11 @@
+- name: Memes
+  percentage: 99,9
+  color: danger
+
+- name: Humor
+  percentage: 80
+  color:
+
+- name: Astrología económica
+  percentage: 70
+  color: dark
